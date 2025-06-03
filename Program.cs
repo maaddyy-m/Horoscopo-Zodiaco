@@ -46,12 +46,123 @@ class ZodiacCalculator
         new ZodiacSign
         {
             Name = " Géminis",
-            DateRange = "21 de mayo - 20 de junio"
+            DateRange = "21 de mayo - 20 de junio",
             Characteristics =new string[]
             {
-
-            }
-        }
+                "Simpatía y curiosidad", 
+                "comunicación y flexibilidad"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 5, 21),
+            EndDate = new DateTime(DateTime.Now.Year, 6, 20)
+        },
+        new ZodiacSign
+        {
+            Name = "Cancer",
+            DateRange = "21 de junio - 22 de julio",
+            Characteristics = new string[]
+            {
+                "Lealtad y sensibilidad", 
+                "empatía y memoria"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 6, 21),
+            EndDate = new DateTime(DateTime.Now.Year, 7, 22)
+        },
+        new ZodiacSign
+        {
+            Name = "Leo",
+            DateRange = "23 de julio - 22 de agosto",
+            Characteristics = new string[]
+            {
+                "Confianza y generosidad", 
+                "creatividad y carisma"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 7, 23),
+            EndDate = new DateTime(DateTime.Now.Year, 8, 22)
+        },
+         new ZodiacSign
+        {
+            Name = "Virgo",
+            DateRange = "23 de agosto - 22 de septiembre",
+            Characteristics = new string[]
+            {
+                "Perfeccionismo y análisis",
+                "servicio y atención al detalle"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 8, 23),
+            EndDate = new DateTime(DateTime.Now.Year, 9, 22)
+        },
+        new ZodiacSign
+        {
+            Name = "Libra",
+            DateRange = "23 de septiembre - 22 de octubre",
+            Characteristics = new string[]
+            {
+                "Equilibrio y armonía", 
+                "justicia y diplomacia"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 9, 23),
+            EndDate = new DateTime(DateTime.Now.Year, 10, 22)
+        },
+        new ZodiacSign
+        {
+            Name = "Escorpio",
+            DateRange = "23 de octubre - 21 de noviembre",
+            Characteristics = new string[]
+            {
+                "Pasión y intensidad", 
+                "misterio y transformación"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 10, 23),
+            EndDate = new DateTime(DateTime.Now.Year, 11, 21)
+        },
+        new ZodiacSign
+        {
+            Name = "Sagitario",
+            DateRange = "22 de noviembre - 21 de diciembre",
+            Characteristics = new string[]
+            {
+                "Optimismo y aventura", 
+                "filosofía y independencia"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 11, 22),
+            EndDate = new DateTime(DateTime.Now.Year, 12, 21)
+        },
+        new ZodiacSign
+        {
+            Name = "Capricornio",
+            DateRange = "22 de diciembre - 19 de enero",
+            Characteristics = new string[]
+            {
+                "Disciplina y ambición",
+                "responsabilidad y determinación"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 12, 22),
+            EndDate = new DateTime(DateTime.Now.Year,1, 19),
+        },
+        new ZodiacSign
+        {
+            Name = "Acuario",
+            DateRange = "20 de enero - 18 de febrero",
+            Characteristics = new string[]
+            {
+                "Innovación y independencia",
+                "originalidad y humanidad"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 1, 20),
+            EndDate = new DateTime(DateTime.Now.Year, 2, 18)
+        },
+        new ZodiacSign
+        {
+            Name = "Piscis",
+            DateRange = "19 de febrero - 20 de marzo ",
+            Characteristics = new string[]
+            {
+                "Intuición y creatividad",
+                "compasión y sueño"
+            },
+            StartDate = new DateTime(DateTime.Now.Year, 2, 19),
+            EndDate = new DateTime(DateTime.Now.Year, 3, 20)
+        },
        ///////////////////////////////////////////////////////////////////////////
     };
 

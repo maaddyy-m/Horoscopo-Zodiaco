@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
+      "projectUniqueName": "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj",
       "projectName": "proyecto",
-      "projectPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
+      "projectPath": "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/",
+      "outputPath": "/mnt/Datos/Repos/Horoscopo-Zodiaco/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
