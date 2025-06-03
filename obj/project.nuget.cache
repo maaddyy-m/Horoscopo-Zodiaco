@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TCGB8TbIA0nUJgkDCwZhdgq2Ioqr1io3Huf27MXfNyH6vNg2QpxkMcgdcbxBQbZBeIs5u+P/fSbJgtvWK7A/dw==",
+  "dgSpecHash": "SMTcqWQlWGNt9Bu9e9v5nUS+9pSKJ1CbiTDTJ0MSiTX2ATHXgXlWlbca7AENn79rDXcXfcnO4Jtzn6LSddlJow==",
   "success": true,
-  "projectFilePath": "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj",
+  "projectFilePath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

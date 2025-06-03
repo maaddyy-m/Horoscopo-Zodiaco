@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj": {}
+    "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj": {}
   },
   "projects": {
-    "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj": {
+    "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj",
+        "projectUniqueName": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
         "projectName": "proyecto",
-        "projectPath": "/mnt/Datos/Repos/Horoscopo-Zodiaco/proyecto.csproj",
+        "projectPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/mnt/Datos/Repos/Horoscopo-Zodiaco/obj/",
+        "outputPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
