@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Documentos/c#/proyecto/proyecto.csproj",
+      "projectUniqueName": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
       "projectName": "proyecto",
-      "projectPath": "/home/et12alumno/Documentos/c#/proyecto/proyecto.csproj",
+      "projectPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Documentos/c#/proyecto/obj/",
+      "outputPath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"

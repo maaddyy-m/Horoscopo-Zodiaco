@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEtgNUO7phSTdKo2+TSD53C/jayxZ2/DejjLRw///B0Au7OWsCh1keeDaE3HmM8Tgij/DtM6sNIZocATkeMbuQ==",
+  "dgSpecHash": "SMTcqWQlWGNt9Bu9e9v5nUS+9pSKJ1CbiTDTJ0MSiTX2ATHXgXlWlbca7AENn79rDXcXfcnO4Jtzn6LSddlJow==",
   "success": true,
-  "projectFilePath": "/home/et12alumno/Documentos/c#/proyecto/proyecto.csproj",
+  "projectFilePath": "/home/et12alumno/Documentos/Horoscopo-Zodiaco/proyecto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/bin/Debug/net8.0/proyecto
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/bin/Debug/net8.0/proyecto.deps.json
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/bin/Debug/net8.0/proyecto.runtimeconfig.json
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/bin/Debug/net8.0/proyecto.dll
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/bin/Debug/net8.0/proyecto.pdb
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.AssemblyInfoInputs.cache
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.AssemblyInfo.cs
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.csproj.CoreCompileInputs.cache
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.sourcelink.json
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.dll
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/refint/proyecto.dll
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.pdb
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/proyecto.genruntimeconfig.cache
+/home/et12alumno/Documentos/Horoscopo-Zodiaco/obj/Debug/net8.0/ref/proyecto.dll
